@@ -9,4 +9,4 @@ Otherwise, after for a period, you can't find any articles you want in the defau
 
 Version1: using command in Windows to open the file so that we can paste texts by pressing Ctrl V
 Version2: output txt form, don't need to copy texts from the console
-Version3: a hub of settings of user preference (coming soon)
+Version3: a hub of settings of user preference (coming soon, refining code right now)
